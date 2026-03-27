@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalcMaster</string>
+    <string name="hindi_numbers">०,१,२,३,४,५,६,७,८,९</string>
+    <string name="gujarati_numbers">૦,૧,૨,૩,૪,૫,૬,૭,૮,૯</string>
+
+
+</resources>

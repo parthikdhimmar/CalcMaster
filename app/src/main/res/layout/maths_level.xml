@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="24dp"
+    android:layout_gravity="center"
+    android:id="@+id/cardView"
+    app:cardBackgroundColor="@color/card_background"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="8dp">
+
+    <LinearLayout
+        android:id="@+id/linear_level_card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/input_background"
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:animateLayoutChanges="true">
+
+        <!-- Title -->
+        <TextView
+            android:id="@+id/tv_difficulty_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="16dp"
+            android:text="Choose  Difficulty"
+            android:textColor="@color/white"
+            android:textSize="24sp"
+            android:fontFamily="@font/caudex" />
+
+        <!-- Easy Button -->
+        <androidx.appcompat.widget.AppCompatButton
+            android:layout_marginTop="10dp"
+            android:id="@+id/easy_level_btn"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:layout_marginBottom="15dp"
+            android:text="Easy"
+            android:background="@drawable/button_action"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:fontFamily="@font/caudex" />
+
+        <!-- Medium Button -->
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/medium_level_btn"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:layout_marginBottom="15dp"
+            android:text="Medium"
+            android:background="@drawable/button_action"
+
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:fontFamily="@font/caudex" />
+
+        <!-- Hard Button -->
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/hard_level_btn"
+            android:layout_width="match_parent"
+            android:background="@drawable/button_action"
+
+            android:layout_height="52dp"
+            android:text="Hard"
+            android:textColor="@color/white"
+            android:layout_marginBottom="10dp"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:fontFamily="@font/caudex" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

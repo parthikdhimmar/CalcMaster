@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/animator/button_press_animator.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <set>
+            <!-- Scale down the button when pressed -->
+            <objectAnimator
+                android:propertyName="scaleX"
+                android:duration="100"
+                android:valueTo="0.9" />
+            <objectAnimator
+                android:propertyName="scaleY"
+                android:duration="100"
+                android:valueTo="0.9" />
+            <!-- Change background color when pressed -->
+            <objectAnimator
+                android:propertyName="backgroundColor"
+                android:duration="10"
+                android:valueTo="@color/orange" /> <!-- Placeholder for pressed color -->
+        </set>
+    </item>
+    <item>
+        <set>
+            <!-- Reset the button to its original state -->
+            <objectAnimator
+                android:propertyName="scaleX"
+                android:duration="100"
+                android:valueTo="1.0" />
+            <objectAnimator
+                android:propertyName="scaleY"
+                android:duration="100"
+                android:valueTo="1.0" />
+            <objectAnimator
+                android:propertyName="backgroundColor"
+                android:duration="10"
+                android:valueTo="@color/dark_gray" /> <!-- Placeholder for default color -->
+        </set>
+    </item>
+</selector>

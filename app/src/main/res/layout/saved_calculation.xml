@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/get_input"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="end"
+            android:layout_marginStart="18dp"
+            android:padding="7dp"
+            android:text="200+300"
+            android:textColor="@color/white"
+            android:fontFamily="@font/caudex"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/get_output"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="end"
+            android:padding="7dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:drawablePadding="5dp"
+            android:drawableTint="@color/white"
+            android:drawableStart="@drawable/vector_equal"
+            android:text="500"
+            android:fontFamily="@font/caudex"
+            android:textSize="15sp" />
+
+
+        <TextView
+            android:id="@+id/lineView"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:text="------------------------"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+</RelativeLayout>
