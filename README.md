@@ -1,164 +1,156 @@
-<!-- ============================= -->
-<!--        SKYCAST HEADER          -->
-<!-- ============================= -->
-
 <div align="center">
 
+# 🧮 CalcMaster
+
+### Smart Calculations, Conversions and Learning in One App
+
 <img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=38&duration=3000&pause=1200&color=4FC3F7&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%E2%98%81%EF%B8%8F+Welcome+to+SkyCast;Your+Smart+Weather+Companion"
-  alt="SkyCast Typing Animation"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1200&color=F5B700&center=true&vCenter=true&repeat=true&width=650&height=55&lines=Calculate+Quickly+and+Easily+%F0%9F%A7%AE;Convert+Currency+and+Units+%F0%9F%92%B1;Use+Voice+for+Smart+Calculations+%F0%9F%8E%99%EF%B8%8F"
+  alt="CalcMaster Animation"
 />
-
-### Accurate Weather Information, Anytime and Anywhere
-
-<p>
-  SkyCast is a modern weather application that provides current weather,
-  forecasts, location search, voice updates, weather alerts and detailed
-  weather information using a Weather API.
-</p>
 
 <br>
 
-<img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Weather-API-2196F3?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-GPS-FF6F00?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/Voice-Enabled-9C27B0?style=for-the-badge&logo=googleassistant&logoColor=white" />
+<img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/Language-Java-F89820?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Currency-ExchangeRate_API-4DA6FF?style=flat-square">
+<img src="https://img.shields.io/badge/Status-Completed-22C55E?style=flat-square">
 
 </div>
 
-<br>
+---
+
+## 📖 About CalcMaster
+
+**CalcMaster** is a modern Android calculator application that provides calculations, currency conversion, unit conversion and math practice in one simple app.
+
+It also supports voice input, calculation history, multiple languages, themes and a home-screen widget.
 
 ---
 
-## ☁️ About SkyCast
-
-**SkyCast** is a clean, modern and easy-to-use weather application.  
-It helps users check live weather conditions, forecasts, weather alerts and
-detailed information for their current location or any searched city.
-
----
-
-## ✨ App Features
+## ✨ Main Features
 
 ### 🎨 Beautiful User Interface
+Clean, modern and easy-to-use application design.
 
-- Clean, modern and user-friendly design
-- Simple navigation and well-organized weather information
-- Easy to understand weather icons and details
+### 👆 First-Time Guide
+Shows a simple guide when the application is opened for the first time.
 
-### 📍 Current Location Weather
+### 🧮 Basic Calculator
+Performs simple and advanced calculations quickly.
 
-- Automatically detects the user’s current location
-- Displays the current temperature in Celsius
-- Shows the weather condition and weather icon
-- Displays feels-like temperature, humidity, wind speed and pressure
+### 🕘 Calculation History
+Automatically saves previous calculations for future use.
 
-### 🕐 Hourly Forecast
+### 🎙️ Voice Input
+Speak a calculation instead of typing it manually.
 
-- Shows hourly weather updates throughout the day
-- Helps users understand upcoming temperature changes
-- Displays weather conditions for different hours
+### 🔊 Voice Result
+Speaks the final answer, such as:
 
-### 🌅 Sunrise and Sunset
+> “Your answer is 20.”
 
-- Displays the daily sunrise time
-- Displays the daily sunset time
-- Helps users plan their day easily
-
-### 📅 Three-Day Forecast
-
-- Shows weather predictions for the next three days
-- Displays daily temperature and weather conditions
-- Helps users prepare for upcoming weather changes
-
-### 🌦️ Detailed Weather Information
-
-SkyCast provides additional weather details, including:
-
-- Wind speed and direction
-- Humidity and atmospheric pressure
-- Cloud coverage
-- Precipitation
-- Visibility
-- UV index
-
-### 🔍 Search Any Location
-
-- Search for any city by name
-- View current weather details for the selected city
-- Quickly check weather conditions in different locations
-
-### 🔊 Voice Weather Greeting
-
-- Automatically speaks the weather when the app opens
-- Provides a friendly greeting based on the current time
-- Voice feature can be turned ON or OFF
-
-> Example: “Good afternoon! Ahmedabad is currently 34°C with sunny weather.”
-
-### 📱 Home Screen Widget
-
-- Displays current weather directly on the home screen
-- Provides quick weather information without opening the app
-- Shows the current location, temperature and weather condition
-
-### 🗺️ Map Weather View
-
-- Select a location directly from the map
-- View weather information for the selected place
-- Makes location-based weather searching easier
-
-### 🚨 Weather Alerts
-
-- Sends notifications for extreme weather conditions
-- Provides alerts for high temperatures
-- Warns users about strong winds, high humidity or low pressure
-- Weather alerts can be turned ON or OFF
-
-### ❓ Help and Information
-
-- Explains common weather terms
-- Provides information about app features
-- Helps users understand detailed weather data
-
-### ⭐ Rating and Feedback
-
-- Users can rate the application
-- Users can share suggestions and feedback
-- Helps improve the application experience
+The voice result can be turned **ON or OFF**.
 
 ---
 
-## 🌟 Main Highlights
-
-<div align="center">
-
-| Feature | Description |
-|:---:|:---|
-| 📍 Live Location | Automatically detects the current location |
-| 🌡️ Current Weather | Shows temperature and weather conditions |
-| 🕐 Hourly Forecast | Displays hourly temperature changes |
-| 📅 3-Day Forecast | Provides upcoming weather predictions |
-| 🔊 Voice Greeting | Speaks the latest weather information |
-| 🗺️ Weather Map | Checks weather using map locations |
-| 🚨 Smart Alerts | Sends extreme weather notifications |
-| 📱 Home Widget | Shows weather directly on the home screen |
-
-</div>
-
----
-
-<div align="center">
-
-### ☁️ Stay Informed. Stay Prepared. Stay Safe.
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=3500&pause=1500&color=42A5F5&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Check+the+weather+before+planning+your+day!;SkyCast+keeps+weather+information+simple."
-  alt="SkyCast Footer Animation"
-/>
+<details>
+<summary><b>⚙️ View More Features</b></summary>
 
 <br>
 
-**Made with ❤️ for a better weather experience**
+- **Home-Screen Widget:** Quickly open the calculator from the device home screen.
+- **Theme Options:** Change the app theme to Yellow, Green or Blue.
+- **Multi-Language Support:** Use numbers in Gujarati, English and Hindi.
+- **Rating and Feedback:** Users can rate the app and share suggestions.
+
+</details>
+
+---
+
+## 💱 Currency Converter
+
+CalcMaster uses an **ExchangeRate API** to convert money between different currencies.
+
+Users can:
+
+- Enter an amount
+- Select source and target currencies
+- View the converted amount
+- See the country and currency names
+
+---
+
+## 📏 Unit Converter
+
+Convert different types of units:
+
+- Length
+- Area
+- Volume
+- Speed
+- Weight
+- Time
+- Temperature
+
+---
+
+## 🎮 Math Game
+
+Practice mathematics with three difficulty levels:
+
+- Easy
+- Medium
+- Hard
+
+This feature helps users improve their calculation speed and accuracy.
+
+---
+
+## 🛠️ Technologies Used
+
+- Android
+- Java
+- XML
+- ExchangeRate API
+- Speech Recognition
+- Text-to-Speech
+- Home-Screen Widget
+
+---
+
+## 🔐 API Security
+
+> [!IMPORTANT]
+> Do not upload your private ExchangeRate API key directly to GitHub.  
+> Store it securely and exclude it using `.gitignore`.
+
+---
+
+## 🎯 Project Purpose
+
+This project helped me learn:
+
+- Android application development
+- Calculator logic
+- API integration
+- Currency and unit conversion
+- Voice input
+- Text-to-Speech
+- Local calculation history
+- Android widget development
+- Multi-language support
+
+---
+
+<div align="center">
+
+### ⭐ Support This Project
+
+If you like **CalcMaster**, consider giving the repository a star.
+
+<br>
+
+**Made with ❤️ by Parthik Dhimmar**
 
 </div>
