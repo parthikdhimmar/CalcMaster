@@ -2,7 +2,7 @@
 
 # 🧮 CalcMaster
 
-### Smart Calculations, Conversions and Learning in One App
+### Smart Calculations and Useful Converters in One App
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1200&color=F5B700&center=true&vCenter=true&repeat=true&width=650&height=55&lines=Calculate+Quickly+and+Easily+%F0%9F%A7%AE;Convert+Currency+and+Units+%F0%9F%92%B1;Use+Voice+for+Smart+Calculations+%F0%9F%8E%99%EF%B8%8F"
